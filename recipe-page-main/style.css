@@ -1,0 +1,100 @@
+img {
+    display: block;
+    border-radius: 30px;
+    width: 100%;
+}
+
+html {
+    background-color: #f3e5d8;
+}
+
+body {
+  /*  background-color: #f3e5d8;*/
+  background-color: #ffffff;
+    width: 50%;
+    margin: 5% auto;
+    padding: 3%;
+    border-style: solid;
+    border-color: #ffffff;
+    border-radius: 30px;
+
+    
+
+
+}
+
+p, li, .preparationH3{
+    color: #565551;
+font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2, h1 {
+font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2 {
+    color: #6f4537;
+}
+
+.preparation {
+    background-color: #fff7fc;
+    border-radius: 15px;
+    padding: 1%;
+}
+
+.preparationH3 {
+    color: #692a45;
+}
+
+.preparationList {
+    list-style-type: square;
+}
+
+.ingredientsList {
+    list-style-type: square;
+}
+
+.instructions {
+    
+    list-style:decimal inside;
+    
+}
+
+hr {
+    border: solid 1px rgba(224, 224, 224, 255);
+}
+
+ul, ol {
+    list-style: inside;
+    padding: 1%;
+}
+
+li {
+    margin-top: 1%;
+}
+
+.serving-cals {
+}
+
+.serving {
+    display: inline;
+    width: 250px;
+
+    text-align: left;
+}
+
+.cals {
+    font-family: "Outfit", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+    text-align: right;
+    width: 25%; 
+    display: b;
+}
+
